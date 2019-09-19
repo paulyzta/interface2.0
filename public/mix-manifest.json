@@ -1,0 +1,12 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/vendor/bootstrap.css": "/css/vendor/bootstrap.css",
+    "/css/vendor/font-awesome.css": "/css/vendor/font-awesome.css",
+    "/css/vendor/ionicons.css": "/css/vendor/ionicons.css",
+    "/css/app.css": "/css/app.css",
+    "/css/vendor/AdminLTE.min.css": "/css/vendor/AdminLTE.min.css",
+    "/css/vendor/skin-blue-light.min.css": "/css/vendor/skin-blue-light.min.css",
+    "/js/vendor/jquery.min.js": "/js/vendor/jquery.min.js",
+    "/js/vendor/bootstrap.min.js": "/js/vendor/bootstrap.min.js",
+    "/js/vendor/adminlte.min.js": "/js/vendor/adminlte.min.js"
+}
